@@ -1,7 +1,6 @@
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipJP.txt@141.147.163.68
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipHK.txt@proxyip.amclubs.kozow.com
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
 https://raw.githubusercontent.com/darekjian/yxip/refs/heads/main/ipv4.txt
 https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestProxy/bestproxy%26country.txt
 https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv4.txt
+https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv6.txt
+https://raw.githubusercontent.com/lu-lingyun/CloudflareST/refs/heads/main/TLS.txt
+https://raw.githubusercontent.com/jc-lw/youxuanyuming/refs/heads/main/ip.txt
