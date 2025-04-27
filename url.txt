@@ -4,4 +4,4 @@ https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv4.tx
 https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv6.txt
 https://raw.githubusercontent.com/lu-lingyun/CloudflareST/refs/heads/main/TLS.txt
 https://raw.githubusercontent.com/TYOYO1/CFIP/refs/heads/main/ProxyIP/CF-PXY-IPV4.txt
-https://raw.githubusercontent.com/Bailitaotao/CloudflareST_Result/refs/heads/main/result.csv
+
